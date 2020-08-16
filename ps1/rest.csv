@@ -1,0 +1,5 @@
+Source,Destination,DestServer,Status
+\\Server-1\C$\Test\CopyData,C:\Test\DestData,Server-1,Done
+C:\Test\CopyData,C:\Test\DestData,localhost,Done
+C:\Test\CopyData,C:\Test\DestData,Home-PC,Done
+C:\Test\CopyData,C:\Test\DestData,Server10,Done
